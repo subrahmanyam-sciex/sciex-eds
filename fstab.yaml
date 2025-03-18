@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/subrahmanyam-sciex/sciex-eds/main"
+    url: "https://author-p93412-e854706.adobeaemcloud.com/bin/franklin.delivery/subrahmanyam-sciex/sciex-eds/main"
     type: "markup"
     suffix: ".html"
